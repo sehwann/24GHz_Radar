@@ -1,0 +1,16 @@
+.\objects\ctl_sensor_data.o: ctl_sensor_data.c
+.\objects\ctl_sensor_data.o: ctl_sensor_data.h
+.\objects\ctl_sensor_data.o: param_type_def.h
+.\objects\ctl_sensor_data.o: C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h
+.\objects\ctl_sensor_data.o: C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdlib.h
+.\objects\ctl_sensor_data.o: C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h
+.\objects\ctl_sensor_data.o: ..\inc\FreeRTOS.h
+.\objects\ctl_sensor_data.o: C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h
+.\objects\ctl_sensor_data.o: ..\inc\FreeRTOSConfig.h
+.\objects\ctl_sensor_data.o: ..\inc\projdefs.h
+.\objects\ctl_sensor_data.o: ..\inc\portable.h
+.\objects\ctl_sensor_data.o: ..\inc\deprecated_definitions.h
+.\objects\ctl_sensor_data.o: ..\inc\portmacro.h
+.\objects\ctl_sensor_data.o: ..\inc\mpu_wrappers.h
+.\objects\ctl_sensor_data.o: ..\inc\task.h
+.\objects\ctl_sensor_data.o: ..\inc\list.h
