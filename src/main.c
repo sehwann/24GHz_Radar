@@ -86,8 +86,8 @@ int main(void)
 {
 	AT32F413_SC1233_INIT();		// Initialize AT32F413
 	
-	taskENTER_CRITICAL();	
+    taskENTER_CRITICAL();	
     xTaskCreate(taskMain, "TaskMain", 500, NULL, 1, NULL);
-	taskEXIT_CRITICAL(); 
-	vTaskStartScheduler(); 
+    taskEXIT_CRITICAL(); 
+    vTaskStartScheduler(); 
 }
